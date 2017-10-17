@@ -13,4 +13,4 @@ def hello
 end
 ```
 
-`mkdir demo_dir`
+Make a new directory with `mkdir demo_dir`
